@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Panadol-Project/static/css/main.5cbd67d2.css",
+    "main.js": "/Panadol-Project/static/js/main.61a7e3cb.js",
+    "static/js/453.3db11bcc.chunk.js": "/Panadol-Project/static/js/453.3db11bcc.chunk.js",
+    "static/media/Panadol Advance.png": "/Panadol-Project/static/media/Panadol Advance.4aefe85d90d3c51e5abb.png",
+    "static/media/PanaNatural Cough Syrup.png": "/Panadol-Project/static/media/PanaNatural Cough Syrup.f11fb67b3290f6a4e147.png",
+    "static/media/Panadol Elixir.png": "/Panadol-Project/static/media/Panadol Elixir.dc31fd144f1ae91ebe3d.png",
+    "static/media/Panadol Baby & Infant (Suspension).png": "/Panadol-Project/static/media/Panadol Baby & Infant (Suspension).d61fe1cf52b2b2f56ab7.png",
+    "static/media/Panadol Cold & Flu Vapour Release + Decongestant.png": "/Panadol-Project/static/media/Panadol Cold & Flu Vapour Release + Decongestant.19404bd69cfd359d789b.png",
+    "static/media/actifast.png": "/Panadol-Project/static/media/actifast.d35f6e6c247a8eb3d8dd.png",
+    "static/media/GettyImages-174887794.webp": "/Panadol-Project/static/media/GettyImages-174887794.5c7fd9432a3b7743ddb5.webp",
+    "static/media/Panadol Cold & Flu All in One.png": "/Panadol-Project/static/media/Panadol Cold & Flu All in One.3260d0a2c9487ff1bf9e.png",
+    "static/media/gsk logo.png": "/Panadol-Project/static/media/gsk logo.4e109024bc9430839464.png",
+    "static/media/Panadol Cold & Flu Day.png": "/Panadol-Project/static/media/Panadol Cold & Flu Day.03fe3a4814422c544f69.png",
+    "static/media/Panadol Extra with Optizorb Formulation.png": "/Panadol-Project/static/media/Panadol Extra with Optizorb Formulation.a72eb0240c135525bcdb.png",
+    "static/media/Panadol Woman.png": "/Panadol-Project/static/media/Panadol Woman.e8dc3cba0a9f7cab039d.png",
+    "static/media/Panadol Night.png": "/Panadol-Project/static/media/Panadol Night.f4c191b891d9993c5c27.png",
+    "static/media/Panadol Joint (Osteoarthritis Pain Relief).png": "/Panadol-Project/static/media/Panadol Joint (Osteoarthritis Pain Relief).22a4efb17887fef49cc7.png",
+    "static/media/Panadol Migraine.png": "/Panadol-Project/static/media/Panadol Migraine.22664fd601e741fd8b42.png",
+    "static/media/Panadol Cold & Flu.png": "/Panadol-Project/static/media/Panadol Cold & Flu.d17a8ec636e8b227bf7a.png",
+    "static/media/Panadol Sinus.png": "/Panadol-Project/static/media/Panadol Sinus.f31bdcc0a1cb386109ee.png",
+    "static/media/pngwing.com-removebg-preview.png": "/Panadol-Project/static/media/pngwing.com-removebg-preview.c07d24e36b64ecea7fb2.png",
+    "static/media/lifeLogo.png": "/Panadol-Project/static/media/lifeLogo.68d7f7d4d8316934a500.png",
+    "static/media/Screenshot_2024-10-25_165734-removebg-preview.png": "/Panadol-Project/static/media/Screenshot_2024-10-25_165734-removebg-preview.78b60b4c4815e027f474.png",
+    "static/media/luluLogo.png": "/Panadol-Project/static/media/luluLogo.f16f6bf53b0b06a795b4.png",
+    "index.html": "/Panadol-Project/index.html",
+    "main.5cbd67d2.css.map": "/Panadol-Project/static/css/main.5cbd67d2.css.map",
+    "main.61a7e3cb.js.map": "/Panadol-Project/static/js/main.61a7e3cb.js.map",
+    "453.3db11bcc.chunk.js.map": "/Panadol-Project/static/js/453.3db11bcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cbd67d2.css",
+    "static/js/main.61a7e3cb.js"
+  ]
+}
