@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import Typed from "typed.js";
-import headerimg from '../img/kisspng-glaxosmithkline-latvia-sia-sia-glaxosmithkline-pak-5b12e7f2d88073.1515526715279656828868-removebg-preview.png';
+import headerimg from '../img/gsk logo.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSquare } from '@fortawesome/free-solid-svg-icons';
 import './Home.css';
