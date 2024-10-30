@@ -24,8 +24,8 @@ const Footer = () => {
                     <div className="footer-section">
                         <h3 className="footer-heading">Quick Links</h3>
                         <ul className="footer-links">
-                            <li><a href="/contact" className="footer-link">Contact Us</a></li>
-                            <li><a href="/WhereToBuy" className="footer-link">Where to Buy</a></li>
+                            <li><a href="/Panadol-Project/contact" className="footer-link">Contact Us</a></li>
+                            <li><a href="/Panadol-Project/WhereToBuy" className="footer-link">Where to Buy</a></li>
                             <li><a href="https://www.terms.haleon.com/en-ae/" className="footer-link">Terms of Use</a></li>
                             <li><a href="https://www.privacy.haleon.com/en-ae/" className="footer-link">Privacy Policy</a></li>
                             <li><a href="https://www.panadol.com/en-me/sitemap/" className="footer-link">Sitemap</a></li>
