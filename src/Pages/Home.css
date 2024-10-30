@@ -1,0 +1,149 @@
+header {
+    margin-top: 0px;
+    background-color: #ebebeb;
+}
+
+header .row h5 {
+    color: #FB5D07;
+    font-size: 22px;
+    margin: 40px 0px 10px 0px;
+    font-weight: 600;
+}
+
+header h2 {
+    color: #003f7f; 
+    font-size: 50px;
+    margin: 30px 0px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+header img {
+    width: 100%;
+    height: auto;
+    margin-top: 70px;
+    margin-left: 0;
+    animation: mover 2s infinite alternate;
+    transition: .3s ease all;
+}
+
+@keyframes mover {
+    0% {
+        transform: translateY(-50px);
+    }
+    100% {
+        transform: translateY(50px);
+    }
+}
+
+header button {
+    background-color: var(--main-color);
+    color: white;
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 40px;
+}
+
+header button a {
+    color: white;
+}
+
+header button:hover {
+    background-color: #FB5D07;
+    box-shadow: 0px 6px 8px rgb(0, 0, 0);
+    transform: scale(1.05);
+}
+
+header button:active {
+    background-color: #003f7f;
+    transform: scale(0.98);
+}
+
+header svg {
+    color: var(--main-color);
+    font-size: 80px;
+    position: absolute;
+    left: 0%;
+    top: 10%;
+    animation: rota 1s infinite alternate;
+    transform: rotate(45deg);
+}
+
+@keyframes rota {
+    from {
+        transform: rotate(270deg);
+    }
+    to {
+        transform: rotate(0deg);
+    }
+}
+
+header .header-box {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+}
+
+.typed-text {
+    color: #003f7f; 
+    font-size: 48px;
+    margin: 20px 0;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    word-spacing: 2px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.typed-cursor {
+    font-size: 0px;
+}
+
+@media (max-width: 768px) {
+    header h2 {
+        font-size: 32px; 
+    }
+
+    header button {
+        font-size: 24px; 
+        padding: 20px 30px; 
+    }
+
+    header .row {
+        flex-direction: column; 
+        align-items: center;
+    }
+
+    header img {
+        width: 90%; 
+        margin-left: 0; 
+    }
+}
+
+@media (max-width: 480px) {
+    header h5 {
+        font-size: 18px; 
+    }
+
+    header h2 {
+        font-size: 28px; 
+    }
+
+    .typed-text {
+        font-size: 24px; 
+
+    header button {
+        font-size: 20px; 
+        padding: 15px 20px; 
+    }
+}
+}
+
